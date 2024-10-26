@@ -13,7 +13,7 @@
         </p>
     </div>
     <div>
-        <img src="URL_DIRETA_DA_IMAGEM_NO_GITHUB" alt="Avatar Vinicius" width="150" style="border-radius: 10px;">
+        <img src="/images/avatar.webp" alt="Avatar Vinicius" width="150">
     </div>
 </div>
 <br>

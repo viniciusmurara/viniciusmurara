@@ -6,9 +6,14 @@
     </a>
 </p>
 
-|  |  |
-|-------|--------|
-| Atualmente, curso o terceiro ano do ensino médio técnico integrado em Desenvolvimento de Sistemas, no período da manhã. No período da tarde e noite, atuo no CentroWEG, onde estou no último semestre da formação em Programação de Sistemas de Informação. Busco constantemente aprimorar minhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack e me destacar na área de tecnologia. | ![Avatar Vinicius](/images/avatar.webp) |
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; padding-right: 10px;">
+        Atualmente, curso o terceiro ano do ensino médio técnico integrado em Desenvolvimento de Sistemas, no período da manhã. No período da tarde e noite, atuo no CentroWEG, onde estou no último semestre da formação em Programação de Sistemas de Informação. Busco constantemente aprimorar minhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack e me destacar na área de tecnologia.
+    </div>
+    <div>
+        <img src="/images/avatar.webp" alt="Avatar Vinicius" width="150px">
+    </div>
+</div>
 
 <br>
 

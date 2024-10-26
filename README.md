@@ -13,4 +13,6 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<div>
+</div><br>
+
+<p>Atualmente curso o terceiro ano do ensino médio técnico integrado com desenvolvimento de sistemas no período da manhã e estou trabalhando no CentroWEG no último semestre da turma de Programador de Sistemas de Informação no período tarde/noite. Tenho como objetivo me aprimorar na área e me tornar um desenvolvedor full-stack.</p>

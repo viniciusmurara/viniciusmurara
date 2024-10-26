@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinimurara_)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmurara&layout=pie)](https://github.com/viniciusmurara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmurara&layout=pie)](https://github.com/viniciusmurara/github-readme-stats) <p>Atualmente curso o terceiro ano do ensino médio técnico integrado com desenvolvimento de sistemas no período da manhã e estou trabalhando no CentroWEG no último semestre da turma de Programador de Sistemas de Informação no período tarde/noite. Tenho como objetivo me aprimorar na área e me tornar um desenvolvedor full-stack.</p>
 
 ### Tecnologias que eu uso
 
@@ -14,5 +14,3 @@
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
-
-<p>Atualmente curso o terceiro ano do ensino médio técnico integrado com desenvolvimento de sistemas no período da manhã e estou trabalhando no CentroWEG no último semestre da turma de Programador de Sistemas de Informação no período tarde/noite. Tenho como objetivo me aprimorar na área e me tornar um desenvolvedor full-stack.</p>

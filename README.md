@@ -13,7 +13,7 @@
         </p>
     </div>
     <div style="width: 30%;">
-        <img src="/images/avatar.webp" alt="Avatar Vinicius" width="100%">
+        <img src="/images/avatar.webp" alt="Avatar Vinicius" width="150">
     </div>
 </div>
 <br>

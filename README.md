@@ -7,8 +7,8 @@
 </p>
 
 <p>
-    Atualmente curso o terceiro ano do ensino médio técnico integrado com desenvolvimento de sistemas no período da manhã e trabalho no CentroWEG no último semestre da turma de Programador de Sistemas de Informação no período tarde/noite.
-    Meu objetivo é me aprimorar na área e me tornar um desenvolvedor full-stack.
+    Estou cursando o terceiro ano do ensino médio técnico integrado com desenvolvimento de sistemas no período<br> da manhã e trabalho no CentroWEG no último semestre da turma de Programador de Sistemas de Informação no período tarde/noite.
+    <br>Meu objetivo é me aprimorar na área e me tornar um desenvolvedor full-stack.
 </p>
 <br>
 

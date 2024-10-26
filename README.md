@@ -9,6 +9,7 @@
 <p>
     Atualmente, curso o terceiro ano do ensino médio técnico integrado em Desenvolvimento de Sistemas,<br>no período da manhã. No período da tarde e noite, atuo no CentroWEG, onde estou no último semestre<br>da formação em Programação de Sistemas de Informação. Busco constantemente aprimorar minhas<br>habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.
 </p>
+<br>
 
 <h2 align="center">⚙️ Tecnologias que eu uso</h2>
 

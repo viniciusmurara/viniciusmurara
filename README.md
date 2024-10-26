@@ -1,4 +1,4 @@
-## Salvee, Eu sou o Vinicius Murara👨🏻‍💻
+## Salvee! Eu sou o Vinicius Murara👨🏻‍💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinimurara_)
 

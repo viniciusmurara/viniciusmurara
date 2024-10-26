@@ -6,16 +6,16 @@
     </a>
 </p>
 
-<table>
-    <tr>
-        <td width="70%">
-            <p>Atualmente, curso o terceiro ano do ensino médio técnico integrado em Desenvolvimento de Sistemas, no período da manhã. No período da tarde e noite, atuo no CentroWEG, onde estou no último semestre da formação em Programação de Sistemas de Informação. Busco constantemente aprimorar minhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack e me destacar na área de tecnologia.</p>
-        </td>
-        <td width="30%">
-            <img src="URL_DIRETA_DA_IMAGEM_NO_GITHUB" alt="Avatar Vinicius" width="150">
-        </td>
-    </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="flex: 1; padding-right: 20px;">
+        <p>
+            Atualmente, curso o terceiro ano do ensino médio técnico integrado em Desenvolvimento de Sistemas, no período da manhã. No período da tarde e noite, atuo no CentroWEG, onde estou no último semestre da formação em Programação de Sistemas de Informação. Busco constantemente aprimorar minhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack e me destacar na área de tecnologia.
+        </p>
+    </div>
+    <div>
+        <img src="URL_DIRETA_DA_IMAGEM_NO_GITHUB" alt="Avatar Vinicius" width="150" style="border-radius: 10px;">
+    </div>
+</div>
 <br>
 
 <h2 align="center">⚙️ Tecnologias que eu uso</h2>

@@ -10,6 +10,7 @@
     Atualmente curso o terceiro ano do ensino médio técnico integrado com desenvolvimento de sistemas no período da manhã e trabalho no CentroWEG no último semestre da turma de Programador de Sistemas de Informação no período tarde/noite.
     <br>Meu objetivo é me aprimorar na área e me tornar um desenvolvedor full-stack.
 </p>
+<br>
 
 <h2 align="center">⚙️ Tecnologias que eu uso</h2>
 
@@ -21,6 +22,7 @@
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+<br>
 
 <h2 align="center">📈 Minhas estatísticas</h2>
 

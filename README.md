@@ -1,10 +1,10 @@
-<h1 style="text-align: center;">Salve! Eu sou o Vinicius Murara 👨🏻‍💻</h1>
+<h1>Salve! Eu sou o Vinicius Murara 👨🏻‍💻</h1>
 
 <p>
-    <a href="https://instagram.com/vinimurara_" target="_blank">
+    <a href="https://instagram.com/vinimurara_">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://www.linkedin.com/in/vinicius-vieira-murara-0593532b4/" target="_blank">
+    <a href="https://www.linkedin.com/in/vinicius-vieira-murara-0593532b4/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </p>
@@ -14,9 +14,9 @@
 </p>
 <br>
 
-<h2 style="text-align: center;">⚙️ Tecnologias que eu uso</h2>
+<h2>⚙️ Tecnologias que eu uso</h2>
 
-<p style="text-align: center;">
+<p>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,9 +26,9 @@
 </p>
 <br>
 
-<h2 style="text-align: center;">📈 Minhas estatísticas</h2>
+<h2>📈 Minhas estatísticas</h2>
 
-<p style="text-align: center;">
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=viniciusmurara&theme=tokyonight" alt="GitHub Streak" width="400"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmurara&layout=pie&theme=tokyonight" alt="Top Langs">
 </p>

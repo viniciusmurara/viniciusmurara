@@ -1,13 +1,13 @@
 <h1>Bem vindo ao meu perfil! Me chamo Vinicius Murara 👨🏻‍💻</h1>
 
-<p>
-    <a href="https://instagram.com/vinimurara_">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/vinicius-vieira-murara-0593532b4/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-</p>
+
+<a href="https://instagram.com/vinimurara_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/vinicius-vieira-murara-0593532b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 
 <p>
     Atualmente, curso o terceiro ano do ensino médio técnico integrado em Desenvolvimento de Sistemas,<br>no período da manhã. Durante o período da tarde e noite, atuo no CentroWEG, onde estou no último<br>semestre da formação em Programação de Sistemas de Informação. Busco constantemente aprimorar<br>minhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.

@@ -29,6 +29,7 @@
     <br>
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img alt="React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
 </p>
 <br>
 

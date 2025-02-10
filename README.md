@@ -12,7 +12,7 @@
 
 
 <p>
-    Atualmente, acabo de concluir o terceiro ano do ensino médio técnico integrado em Desenvolvimento de Sistemas,<br>no período da manhã. Durante o período da tarde e noite, atuo no CentroWEG, onde estou no último<br>semestre da formação em Programação de Sistemas de Informação. Busco constantemente aprimorar<br>minhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.
+    Atualmente, acabo de concluir o terceiro ano do ensino médio técnico integrado em Desenvolvimento de<br>Sistemas, no período da manhã. Durante o período da tarde e noite, atuo no CentroWEG, onde estou<br>no último semestre da formação em Programação de Sistemas de Informação. Busco constantemente<br>aprimorar minhas habilidades e conhecimentos, com o objetivo de me tornar um desenvolvedor full-stack.
 </p>
 <br>
 

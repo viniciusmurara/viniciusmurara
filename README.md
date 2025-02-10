@@ -36,6 +36,6 @@
 <h2>📈 Minhas estatísticas</h2>
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=viniciusmurara&theme=tokyonight" alt="GitHub Streak" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=viniciusmurara&theme=tokyonight" alt="GitHub Streak" width="400"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmurara&layout=pie&theme=tokyonight" alt="Top Langs">
 </p>

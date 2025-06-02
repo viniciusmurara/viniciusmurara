@@ -12,7 +12,7 @@
 
 
 <p>
-    Desde jovem, sou fascinado por tecnologia, o que me levou a cursos como de montagem e manutenção de computadores até descobrir meu grande interesse pelo desenvolvimento de sistemas e programação. Sou formado como Técnico em Desenvolvimento de Sistemas pelo Senai/SC, onde concluí o Ensino Médio integrado à formação técnica, adquirindo uma base sólida e prática para minha carreira.
+    Sou formado como Técnico em Desenvolvimento de Sistemas pelo Senai/SC, onde concluí o Ensino Médio integrado à formação técnica, adquirindo uma base sólida e prática para minha carreira.
 
 Passei também pelo CentroWEG, onde nos períodos de tarde/noite por quase 2 anos pude me aprofundar muito em conhecimentos teóricos e práticos em desenvolvimento web full cycle, aprendendo diversos conceitos que uso no meu dia a dia.
 

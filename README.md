@@ -1,4 +1,4 @@
-<h1>Bem vindo ao meu perfil! Me chamo Vinicius Murara 👨🏻‍💻</h1>
+<h1>Bem vindo ao meu perfil! 👨🏻‍💻</h1>
 
 
 <p>
@@ -12,7 +12,7 @@
 
 
 <p>
-    Sou formado como Técnico em Desenvolvimento de Sistemas pelo Senai/SC, onde concluí o Ensino Médio integrado à formação técnica, adquirindo uma base sólida e prática para minha carreira.
+    Me chamo Vinicius Vieira Murara, tenho 18 anos e sou formado como Técnico em Desenvolvimento de Sistemas pelo Senai/SC, onde concluí o Ensino Médio integrado à formação técnica, adquirindo uma base sólida e prática para minha carreira.
 
 Passei também pelo CentroWEG, onde nos períodos de tarde/noite por quase 2 anos pude me aprofundar muito em conhecimentos teóricos e práticos em desenvolvimento web full cycle, aprendendo diversos conceitos que uso no meu dia a dia.
 

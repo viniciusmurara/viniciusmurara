@@ -12,7 +12,7 @@
 
 
 <p>
-    Me chamo Vinicius Vieira Murara, tenho 18 anos e sou formado como Técnico em Desenvolvimento de Sistemas pelo Senai/SC, onde concluí o Ensino Médio integrado à formação técnica, adquirindo uma base sólida para minha carreira.
+    Me chamo Vinicius Vieira Murara, tenho 18 anos e sou formado como Técnico em Desenvolvimento de Sistemas pelo Senai/SC, onde concluí o Ensino Médio integrado à formação técnica, adquirindo uma base sólida para meu início de carreira.
 
 Passei também pelo CentroWEG, onde nos períodos de tarde/noite por quase 2 anos pude me aprofundar muito em conhecimentos teóricos e práticos em desenvolvimento web full cycle, aprendendo diversos conceitos que uso no meu dia a dia.
 

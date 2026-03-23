@@ -12,11 +12,9 @@
 
 
 <p>
-    Me chamo Vinicius Vieira Murara, tenho 18 anos e sou formado como Técnico em Desenvolvimento de Sistemas pelo Senai/SC, onde concluí o Ensino Médio integrado à formação técnica, adquirindo uma base sólida para meu início de carreira.
+Sou Desenvolvedor de Software na WEG, atuando no desenvolvimento de aplicações web robustas e escaláveis com Angular, React e C#. Tenho formação técnica em Desenvolvimento de Sistemas (SENAI/SC) e experiência full cycle no CentroWEG como aprendiz, com APIs REST (Java/Spring Boot), boas práticas de UI/UX com Nextjs, Docker, e cloud (AWS).
 
-Passei também pelo CentroWEG, onde nos períodos de tarde/noite por quase 2 anos pude me aprofundar muito em conhecimentos teóricos e práticos em desenvolvimento web full cycle, aprendendo diversos conceitos que uso no meu dia a dia.
-
-Atualmente, com a conclusão do CentroWEG, estou trabalhando como Projetista de Software na WEG Digital Solutions.
+Também já atuei em cases de performance, incluindo otimização de consultas e integrações (melhoria de chamadas HTTP e conexões ao banco) e redução de consumo de CPU do sistema. Em um dos relatórios, reduzi o tempo médio de carregamento de ~180s para ~10s. Atualmente, curso Bacharelado em Engenharia de Software na Católica e me interesso por desafios de performance, arquitetura, qualidade e produto em sistemas web.
 </p>
 <br>
 
